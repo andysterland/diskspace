@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sizer": {
+      "commandName": "Project",
+      "commandLineArgs": "-o \"..\\..\\..\\..\\..\\src\\www\\wwwroot\\data.json\" -d 5 -m 1 -p c:\\"
+    }
+  }
+}
